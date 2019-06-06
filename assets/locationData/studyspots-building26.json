@@ -1,0 +1,44 @@
+{
+  "spots": [
+    {
+      "desc": "long table",
+      "lat": 51.999076,
+      "lng": 4.378061,
+      "floor": 0,
+      "building": 28,
+      "updates": []
+    },
+    {
+      "desc": "green benches",
+      "lat": 51.99905,
+      "lng": 4.378097,
+      "floor": 0,
+      "building": 28,
+      "updates": []
+    },
+    {
+      "desc": "white tables near DE coffee machine",
+      "lat": 51.998998,
+      "lng": 4.37817,
+      "floor": 0,
+      "building": 28,
+      "updates": []
+    },
+    {
+      "desc": "white tables silent area",
+      "lat": 51.998906,
+      "lng": 4.37804,
+      "floor": 0,
+      "building": 28,
+      "updates": []
+    },
+    {
+      "desc": "cantine",
+      "lat": 51.99906,
+      "lng": 4.3779,
+      "floor": 0,
+      "building": 28,
+      "updates": []
+    }
+  ]
+}
