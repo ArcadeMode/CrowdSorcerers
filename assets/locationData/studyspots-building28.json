@@ -1,5 +1,4 @@
-{
-  "spots": [
+[
     {
       "desc": "long table",
       "lat": 51.999076,
@@ -46,4 +45,3 @@
     {"desc":"white tables north","lat": 51.999101,
       "lng":4.378064,"floor":6,"building":28,"updates":[]}
   ]
-}
