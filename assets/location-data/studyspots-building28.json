@@ -5,13 +5,15 @@
       "lng": 4.378061,
       "floor": 0,
       "building": 28,
-      "updates": []
+      "updates": [],
+      "capacity": 8
     },
     {
       "desc": "green benches",
       "lat": 51.99905,
       "lng": 4.378097,
       "floor": 0,
+      "capacity": 4,
       "building": 28,
       "updates": []
     },
@@ -20,6 +22,7 @@
       "lat": 51.998998,
       "lng": 4.37817,
       "floor": 0,
+      "capacity": 12,
       "building": 28,
       "updates": []
     },
@@ -28,6 +31,7 @@
       "lat": 51.998906,
       "lng": 4.37804,
       "floor": 0,
+      "capacity": 6,
       "building": 28,
       "updates": []
     },
@@ -36,12 +40,13 @@
       "lat": 51.99906,
       "lng": 4.3779,
       "floor": 0,
+      "capacity": 6,
       "building": 28,
       "updates": []
     },
-    {"desc":"white tables south","lat":51.998897,"lng":4.378237,"floor":3,"building":28,"updates":[]},
+    {"desc":"white tables south","lat":51.998897,"lng":4.378237,"floor":3,"capacity": 5,"building":28,"updates":[]},
     {"desc":"white tables south","lat": 51.99902,
-      "lng":4.378213,"floor":4,"building":28,"updates":[]},
+      "lng":4.378213,"floor":4,"capacity": 7,"building":28,"updates":[]},
     {"desc":"white tables north","lat": 51.999101,
-      "lng":4.378064,"floor":6,"building":28,"updates":[]}
+      "lng":4.378064,"floor":6,"capacity": 6, "building":28,"updates":[]}
   ]
