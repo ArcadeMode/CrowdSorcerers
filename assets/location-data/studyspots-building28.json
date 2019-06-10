@@ -5,7 +5,12 @@
       "lng": 4.378061,
       "floor": 0,
       "building": 28,
-      "updates": [],
+      "updates": [
+        {
+          "seatsAvailable": 5,
+          "timestamp": 1560180449785
+        }
+      ],
       "capacity": 8
     },
     {
