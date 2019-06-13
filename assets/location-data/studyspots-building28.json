@@ -7,25 +7,19 @@
         "buildingnr": 28,
         "updates": [
             {
-                "seatsAvailable": 5,
-                "timestamp": 1560180449785
+                "seatsAvailable": 3,
+                "timestamp": 1560444266195
+            },
+            {
+                "seatsAvailable": 4,
+                "timestamp": 1560444340712
             },
             {
                 "seatsAvailable": 5,
-                "timestamp": 1560180449785
-            },
-            {
-                "seatsAvailable": 5,
-                "timestamp": 1560180449785
-            },
-            {
-                "seatsAvailable": 5,
-                "timestamp": 1560180449785
+                "timestamp": 1560444403192
             }
         ],
-        "capacity": 16,
-        "dist": null,
-        "mostRecentOccupations": []
+        "capacity": 16
     },
     {
         "latitude": 51.99905,
@@ -60,10 +54,7 @@
             }
         ],
         "capacity": 8,
-        "dist": null,
-        "mostRecentOccupations": [
-            null
-        ]
+        "dist": null
     },
     {
         "latitude": 51.998998,
@@ -132,8 +123,7 @@
             }
         ],
         "capacity": 16,
-        "dist": null,
-        "mostRecentOccupations": []
+        "dist": null
     },
     {
         "latitude": 51.99902,
@@ -147,7 +137,8 @@
                 "timestamp": 1560427840905
             }
         ],
-        "capacity": 16
+        "capacity": 16,
+        "dist": null
     },
     {
         "latitude": 51.999101,
