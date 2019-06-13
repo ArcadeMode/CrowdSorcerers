@@ -76,11 +76,15 @@
     "updates": [
       {
         "seatsAvailable": 4,
-        "timestamp": 1560188600
+        "timestamp": 1560424440
       },
       {
         "seatsAvailable": 3,
-        "timestamp": 1560188930
+        "timestamp": 1560424439
+      },
+      {
+        "seatsAvailable": 4,
+        "timestamp": 1560424438
       }
     ],
     "capacity": 7
