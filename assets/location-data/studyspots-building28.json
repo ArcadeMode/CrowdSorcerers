@@ -11,7 +11,7 @@
         "timestamp": 1560180449785
       }
     ],
-    "capacity": 8
+    "capacity": 16
   },
   {
     "latitude": 51.99905,
@@ -20,7 +20,7 @@
     "floor": 0,
     "buildingnr": 28,
     "updates": [],
-    "capacity": 4
+    "capacity": 8
   },
   {
     "latitude": 51.998998,
@@ -29,7 +29,7 @@
     "floor": 0,
     "buildingnr": 28,
     "updates": [],
-    "capacity": 12
+    "capacity": 16
   },
   {
     "latitude": 51.998906,
@@ -38,7 +38,7 @@
     "floor": 0,
     "buildingnr": 28,
     "updates": [],
-    "capacity": 6
+    "capacity": 16
   },
   {
     "latitude": 51.99906,
@@ -47,7 +47,25 @@
     "floor": 0,
     "buildingnr": 28,
     "updates": [],
-    "capacity": 6
+    "capacity": 40
+  },
+  {
+    "latitude": 51.998872,
+    "longitude": 4.378234,
+    "description": "white tables north",
+    "floor": 2,
+    "buildingnr": 28,
+    "updates": [],
+    "capacity": 16
+  },
+  {
+    "latitude": 51.998973,
+    "longitude": 4.378167,
+    "description": "white tables south",
+    "floor": 2,
+    "buildingnr": 28,
+    "updates": [],
+    "capacity": 12
   },
   {
     "latitude": 51.998897,
@@ -65,7 +83,7 @@
         "timestamp": 1560188930
       }
     ],
-    "capacity": 5
+    "capacity": 16
   },
   {
     "latitude": 51.99902,
@@ -83,7 +101,7 @@
         "timestamp": 1560188930
       }
     ],
-    "capacity": 7
+    "capacity": 16
   },
   {
     "latitude": 51.999101,
