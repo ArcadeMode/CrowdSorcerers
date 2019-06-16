@@ -8,15 +8,11 @@
         "updates": [
             {
                 "seatsAvailable": 3,
-                "timestamp": 1560444266195
+                "timestamp": 1560694936215
             },
             {
-                "seatsAvailable": 4,
-                "timestamp": 1560444340712
-            },
-            {
-                "seatsAvailable": 5,
-                "timestamp": 1560444403192
+                "seatsAvailable": 2,
+                "timestamp": 1560694936215
             }
         ],
         "capacity": 16
@@ -29,32 +25,15 @@
         "buildingnr": 28,
         "updates": [
             {
-                "seatsAvailable": 2,
-                "timestamp": 1560425026858
+                "seatsAvailable": 0,
+                "timestamp": 1560694936215
             },
             {
-                "seatsAvailable": 2,
-                "timestamp": 1560425026858
-            },
-            {
-                "seatsAvailable": 5,
-                "timestamp": 1560425754158
-            },
-            {
-                "seatsAvailable": 2,
-                "timestamp": 1560425026858
-            },
-            {
-                "seatsAvailable": 2,
-                "timestamp": 1560425026858
-            },
-            {
-                "seatsAvailable": 5,
-                "timestamp": 1560425754158
+                "seatsAvailable": 0,
+                "timestamp": 1560694936215
             }
         ],
-        "capacity": 8,
-        "dist": null
+        "capacity": 8
     },
     {
         "latitude": 51.998998,
@@ -63,8 +42,7 @@
         "floor": 0,
         "buildingnr": 28,
         "updates": [],
-        "capacity": 16,
-        "dist": null
+        "capacity": 16
     },
     {
         "latitude": 51.998906,
@@ -73,8 +51,7 @@
         "floor": 0,
         "buildingnr": 28,
         "updates": [],
-        "capacity": 16,
-        "dist": null
+        "capacity": 16
     },
     {
         "latitude": 51.99906,
@@ -83,8 +60,7 @@
         "floor": 0,
         "buildingnr": 28,
         "updates": [],
-        "capacity": 40,
-        "dist": null
+        "capacity": 40
     },
     {
         "latitude": 51.998872,
@@ -93,8 +69,7 @@
         "floor": 2,
         "buildingnr": 28,
         "updates": [],
-        "capacity": 16,
-        "dist": null
+        "capacity": 16
     },
     {
         "latitude": 51.998973,
@@ -102,9 +77,17 @@
         "description": "white tables south",
         "floor": 2,
         "buildingnr": 28,
-        "updates": [],
-        "capacity": 12,
-        "dist": null
+        "updates": [
+            {
+                "seatsAvailable": 0,
+                "timestamp": 1560694936215
+            },
+            {
+                "seatsAvailable": 0,
+                "timestamp": 1560694936215
+            }
+        ],
+        "capacity": 12
     },
     {
         "latitude": 51.998897,
@@ -114,16 +97,11 @@
         "buildingnr": 28,
         "updates": [
             {
-                "seatsAvailable": "2",
-                "timestamp": 1560425933816
-            },
-            {
-                "seatsAvailable": "2",
-                "timestamp": 1560425933816
+                "seatsAvailable": 0,
+                "timestamp": 1560694936215
             }
         ],
-        "capacity": 16,
-        "dist": null
+        "capacity": 16
     },
     {
         "latitude": 51.99902,
@@ -133,12 +111,11 @@
         "buildingnr": 28,
         "updates": [
             {
-                "seatsAvailable": "3",
-                "timestamp": 1560427840905
+                "seatsAvailable": 0,
+                "timestamp": 1560694936215
             }
         ],
-        "capacity": 16,
-        "dist": null
+        "capacity": 16
     },
     {
         "latitude": 51.999101,
@@ -146,8 +123,16 @@
         "description": "white tables north",
         "floor": 6,
         "buildingnr": 28,
-        "updates": [],
-        "capacity": 6,
-        "dist": null
+        "updates": [
+            {
+                "seatsAvailable": 4,
+                "timestamp": 1560694936215
+            },
+            {
+                "seatsAvailable": 2,
+                "timestamp": 1560694959915
+            }
+        ],
+        "capacity": 6
     }
 ]
